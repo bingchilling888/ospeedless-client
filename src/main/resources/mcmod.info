@@ -1,1 +1,16 @@
-
+[
+{
+  "modid": "ospeedlessclient",
+  "name": "oSpeedless Client",
+  "description": "A polished legitimate PvP utility client for Minecraft 1.8.9. Client-sided visuals, HUD, QoL, and performance only.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["oSpeedless"],
+  "credits": "oSpeedless Team",
+  "logoFile": "assets/ospeedlessclient/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
