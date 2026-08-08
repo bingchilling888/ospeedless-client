@@ -38,13 +38,13 @@ public class FPSBoost extends Module {
             gs.particleSetting = 2;
             gs.fancyGraphics = false;
             gs.ambientOcclusion = 0;
-            gs.clouds = false;
+            gs.clouds = 0;
             gs.mipmapLevels = 0;
         } else if (preset.is("Balanced")) {
             gs.particleSetting = 1;
             gs.fancyGraphics = false;
             gs.ambientOcclusion = 1;
-            gs.clouds = true;
+            gs.clouds = 1;
         } else {
             gs.particleSetting = 0;
             gs.fancyGraphics = true;
